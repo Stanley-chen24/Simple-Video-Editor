@@ -1,0 +1,5 @@
+PyQt5>=5.15
+opencv-python>=4.5
+numpy
+# Bundles an FFmpeg binary, used for export when `ffmpeg` is not already on your PATH.
+imageio-ffmpeg>=0.4.9
